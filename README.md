@@ -3,7 +3,7 @@ TABLES IN HTML <BR>
 In HTML,tables make it easy tp layout data nd even images in a grid <br>
 Tables are just like spread sheets and they are madeup of rows and coloumns <br>
 The most important layout ascepts that can be done with tables are: <br>
-<ul>  
+<ul type="circle"> 
 <l1> Divide the page into different sections </l1> <br>
 <l1>Creating menus </l1> <br>
 <l1> Adding interactive from feilds </l1 <br>
